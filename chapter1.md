@@ -1,3 +1,3 @@
-# Chapter 1: Introduction to AVR Micro-controllers
+# 1. Introduction to AVR Micro-controllers
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
