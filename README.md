@@ -1,9 +1,11 @@
 ATTiny Crash Course
 =======
 
-This book is intended as an in-depth introduction to the AVR family of micro-controllers, with a specific focus on the ATTiny44/84 and ATTiny45/85.
+This book is a practical introduction to the AVR family of micro-controllers, with a specific focus on the ATTiny44/84 and ATTiny45/85 models.
 
-The main audience for the book is students enrolled in the Fab Academy distributed learning program offered by the Fab Foundation and led by Neil Gershenfeld, but anyone with a basic understanding of embedded programming and micro-controllers could find it as useful.
+The book is targeted at students enrolled in the [Fab Academy](http://fabacademy.org),  a distributed learning program offered by the [Fab Lab Network](http://fabfoundation.org).
+
+Anyone with a basic understanding of embedded programming and micro-controllers can find it useful too.
 
 The content is organized as follows:
 
@@ -17,7 +19,7 @@ This chapter goes through the process necessary to build your own AVR board usin
 
 **Chapter Three: Programming the AVR**
 
-This chapter guides the reader in setting up the programming environment and using the Avrdude software to load a firmware on the AVR board.
+This chapter guides the reader in setting up the programming environment and using the AVRDude software to load a firmware on the evaluation board.
 
 **Chapter Four: I/O ports**
 
@@ -33,15 +35,15 @@ This chapter shows how to create Timers and how to use interrupts for checking i
 
 **Chapter Seven: PWM, Fading Leds, and Servo Motors**
 
-This chapter goes through the PWM generation options, especially useful for controlling servo motors.
+This chapter goes through the PWM generation options useful for controlling servo motors.
 
 **Chapter Eight: Reading analog signals with the ADC**
 
-This chapter describes the ADC subsystem and how it can be used for reading analog signals.
+This chapter describes the ADC subsystem and how you can use it for reading analog signals.
 
 **Chapter Nine: Networking**
 
-This chapter shows the various networking options for AVR microcontrollers, including Bluetooth and WiFi.
+This chapter shows the different networking options for AVR micro-controllers including Bluetooth and WiFi.
 
    
  
