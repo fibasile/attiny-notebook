@@ -6,3 +6,4 @@
 * [I/O Ports](chapter4.md)
 * [Serial communication](chapter5.md)
 * [Interrupts and Timers](chapter6.md)
+* [PWM, Fading Leds, and Servo Motors](chapter7.md)
