@@ -8,3 +8,4 @@
 * [Interrupts and Timers](chapter6.md)
 * [PWM, Fading Leds, and Servo Motors](chapter7.md)
 * [Reading analog signals with the ADC](chapter8.md)
+* [Networking](chapter9.md)
